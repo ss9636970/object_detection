@@ -4,7 +4,7 @@
 
 此任務為物件偵測任務，物件數量為13種物件，下方照片為舉例圖片
 
-![510](https://github.com/ss9636970/object_detection/blob/main/readme/510.jpg)![542](https://github.com/ss9636970/object_detection/blob/main/readme/510.jpg)
+![510](https://github.com/ss9636970/object_detection/blob/main/readme/510.jpg)![542](https://github.com/ss9636970/object_detection/blob/main/readme/542.jpg)
 
 資料可分為:
 
